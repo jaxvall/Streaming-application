@@ -1,2 +1,2 @@
 # streaming
-Streaming proto
+Prototype of a streaming website
